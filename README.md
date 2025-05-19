@@ -41,8 +41,6 @@ Pause, resume, or stop at any point with hotkeys or GUI buttons.
 
 ---
 
----
-
 ## 📦 Requirement 
 
 To run **PandemoniumAutoMT.exe**, you'll need:
