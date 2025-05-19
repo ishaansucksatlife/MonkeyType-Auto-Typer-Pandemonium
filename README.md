@@ -107,6 +107,8 @@ pip install -r requirements.txt
 
 • README.md – Project documentation
 
+---
+
 ## 📄 License
 This project is not open source.
 The executable (PandemoniumAutoMT.exe) is provided for personal and non-commercial use only.
