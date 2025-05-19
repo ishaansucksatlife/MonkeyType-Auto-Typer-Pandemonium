@@ -57,8 +57,9 @@ webdriver-manager
 ```
 
 ### To install all dependencies, run this command:
+```bash
 pip install -r requirements.txt
-
+```
 ---
 ## 🚀 How It Works
 
