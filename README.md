@@ -106,11 +106,20 @@ pip install -r requirements.txt
 • requirements.txt – List of required Python libraries
 
 • README.md – Project documentation
+
 ## 📄 License
-This project is licensed under the MIT License.
+This project is not open source.
+The executable (PandemoniumAutoMT.exe) is provided for personal and non-commercial use only.
 
-[MIT](https://choosealicense.com/licenses/mit/)
+You may not:
 
+Reverse-engineer, decompile, or modify the executable
+
+Redistribute it without proper credit
+
+Use it for commercial purposes without permission
+
+📌 This project is proprietary software. No source code is available to tbe public yet.
 ---
 
 ## 💬 Need Help?
