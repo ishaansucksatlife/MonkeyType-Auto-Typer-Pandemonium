@@ -146,7 +146,7 @@ Redistribute it without proper credit
 
 Use it for commercial purposes without permission
 
-📌 This project is proprietary software. No source code is available to tbe public yet.
+📌 This project is proprietary software. No source code is available to the public yet.
 ---
 
 ## 💬 Need Help?
