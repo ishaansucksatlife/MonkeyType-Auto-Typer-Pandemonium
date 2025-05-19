@@ -52,9 +52,6 @@ Bind your own keys to Start, Pause, Resume, and Stop.
 ### 🎯 Accuracy Control  
 Configure typing accuracy (e.g., 95% accuracy = 5% intentional typos).
 
-### 🕹️ Zen Mode Support  
-Supports continuous typing and auto-scroll in MonkeyType’s infinite mode.
-
 ### 🖥️ Browser Automation  
 Reads the active word directly from the MonkeyType test via live DOM parsing.
 
