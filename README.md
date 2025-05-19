@@ -13,6 +13,34 @@ It relies on the `keyboard` module, which does not support macOS or Linux for fu
 
 Ensure you're running it on a Windows machine for best results.
 
+## 🛡️ Safety & Assurance
+
+We understand that downloading `.exe` files can be a concern for many users. That's why we prioritize transparency and user trust.
+
+✅ The executable file `PandemoniumAutoMT.exe` has been scanned and verified to be safe.
+
+🔗 **VirusTotal Scan Report:** [Click here to view the results](https://www.virustotal.com/gui/file/a18738008a78a24a815758dd88a1449801bf02f1a7e518e123c9dfb5412e5921?nocache=1)
+
+> This scan confirms that the file contains no malware, spyware, or malicious behavior.
+
+Some antivirus engines may flag this tool due to its automation capabilities and the way it's packaged as a `.exe`. Rest assured:
+> These are generic heuristic tags:
+
+Kryptik: Often flags tools that simulate or automate inputs, key presses, etc.
+
+Tool.DDoS.Script.1: It's flagging your MonkeyType auto-typer as a script capable of "sending repeated requests" (even though it's just simulating typing).
+
+Malicious/Suspicious PE: Based on AI/static heuristics — no actual virus found.
+
+> - No malicious behavior exists in this project.
+
+For additional peace of mind:
+- The source code remains private to prevent tampering and unauthorized edits.
+- Only use the official executable from our [GitHub releases](https://github.com/ishaansucksatlife/MonkeyType-Auto-Typer-Pandemonium/releases) to ensure safety.
+
+If you have any doubts or questions, feel free to ask in our [Discord Support Server](https://discord.com/invite/HazvsVHxyE).
+
+
 ## 🔥 Features
 
 ### 🧠 Realistic Typing Simulation  
