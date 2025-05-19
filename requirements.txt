@@ -1,0 +1,3 @@
+selenium
+keyboard
+webdriver-manager
