@@ -1,4 +1,4 @@
-Pandemonium Auto MonkeyType 💻⌨️
+Pandemonium MonkeyType Auto Typer 💻⌨️
  
 A browser automation tool for [MonkeyType](https://monkeytype.com) that simulates typing with realistic delays, accuracy settings, and fully customizable hotkeys.
 
