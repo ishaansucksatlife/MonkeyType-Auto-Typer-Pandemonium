@@ -8,7 +8,7 @@ A browser automation tool for [MonkeyType](https://monkeytype.com) that simulate
 
 ## ⚠️ Note
 
-🪟 **This tool is Windows-only.**  
+⚠️ **This tool is Windows-only.**  
 It relies on the `keyboard` module, which does not support macOS or Linux for full hotkey functionality.  
 
 Ensure you're running it on a Windows machine for best results.
