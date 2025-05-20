@@ -28,7 +28,7 @@ Some antivirus engines may flag this tool due to its automation capabilities and
 
 Kryptik: Often flags tools that simulate or automate inputs, key presses, etc.
 
-Tool.DDoS.Script.1: It's flagging your MonkeyType auto-typer as a script capable of "sending repeated requests" (even though it's just simulating typing).
+Tool.DDoS.Script.1: It's flagging MonkeyType auto-typer as a script capable of "sending repeated requests" (even though it's just simulating typing).
 
 Malicious/Suspicious PE: Based on AI/static heuristics — no actual virus found.
 
