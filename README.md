@@ -92,7 +92,7 @@ pip install -r requirements.txt
 - Opens Chrome using Selenium and loads [MonkeyType](https://monkeytype.com)
 - Waits until you focus the input field
 - Automatically types the current test based on your config
-- Works with all test types: Words, Time, Quote, Zen
+- Works with all test types: Words, Time, Quote
 
 ---
 ## 🧪 How To Use
