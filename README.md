@@ -53,7 +53,7 @@ Bind your own keys to Start, Pause, Resume, and Stop.
 Configure typing accuracy (e.g., 95% accuracy = 5% intentional typos).
 
 ### 🖥️ Browser Automation  
-Reads the active word directly from the MonkeyType test via live DOM parsing.
+Reads the active word directly from the MonkeyType test live.
 
 ### 📈 Speed Settings  
 Set min/max delay between key presses (in milliseconds).
